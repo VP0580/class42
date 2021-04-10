@@ -1,0 +1,401 @@
+var message="karan"
+var num =2
+console.log(" my name is  " +message);
+console.log(num)
+console.log(message.length);
+console.log(message.toUpperCase())
+console.log(parseInt("123"))
+console.log(2+3);
+console.log(2-3);
+console.log(5*7)
+console.log(36/12);
+console.log(12 % 5);
+console.log("hello"+"world");
+console.log("a"/"b")
+console.log(1/0);
+var bool=true
+console.log(2===3)
+console.log(2>3);
+console.log(2<3);
+console.log(2>=3);
+console.log(2<=3)
+console.log(2!=3)
+var test=null;
+console.log(test)
+if(3>2){
+  console.log("happy")
+}
+else
+{
+  console.log("not happy")
+}
+var name = "My name"
+switch(name){
+case "My name":
+  console.log("condition 1");
+  break;
+case "my name":
+  console.log("condition 2")
+break;
+default:
+  console.log("none of the conditions are true")
+}
+
+for (var i=0; i<=5;i++){
+  console.log(i)
+}
+
+var i=0
+while(i<=5){
+  console.log(i)
+  i=i+1
+}
+
+var friends =["frnd1","friend2","friend3"]
+console.log(friends[0]);
+for(var index in friends)
+console.log(friends[index])
+console.log(friends.length)
+friends.push("friend4");
+friends.pop()
+var value=circumference(7)
+console.log(value)
+
+function circumference(radius)
+{
+  var circumference =2*3.14*radius
+  return circumference
+}
+
+
+
+or
+
+
+console.log("Alark")
+console.log("2")
+console.log(2);
+var name="Alark"
+console.log(name)
+console.log(name.length);
+console.log(name.toUpperCase());
+var num =5
+console.log(num)
+console.log(parseInt("123"))
+%
+console.log(2+3)
+console.log(2-3)
+console.log(5 * 7)
+console.log(36/12)
+console.log(12 % 5)
+console.log( "Hi" + " friend")
+console.log( "a" / "b")
+console.log( 1/0)
+var bool = true ;
+console.log(2===3)
+console.log(2>3)
+console.log(2<3)
+console.log(2<=3)
+console.log(2!=3)
+var test;
+console.log(test)
+test=null;
+console.log(test)
+if(3 >2)
+{
+  console.log("happy")
+}
+else
+{
+  console.log("sad")
+}
+var name="My name";
+switch(name){
+case " My Name" :
+  console.log("condition 1"); break;
+  case "my Name ":
+    console.log( "condition 2 ") ; break;
+    default : console.log ( " none of the conditions are true")
+}
+
+for (var i=0;i<=5;i++){
+  console.log(i)
+}
+
+var i=0
+while(i<=50)
+{
+  console.log(i)
+  i=i+1;
+}
+
+var friends = ["frnd1","frnd2","frnd3"]
+console.log(friends[0],friends[1],friends[2])
+
+for (var index in friends){
+console.log(friends[index])
+}
+console.log(friends.length)
+friends.push("frnd4")
+console.log(friends)
+
+friends.pop();
+console.log(friends)
+
+var value=circumference(5)
+console.log(value)
+
+function circumference(radius)
+{
+  var circumference =2*3.14*radius
+  return circumference
+}
+
+
+var name ="vandana"
+console.log(name.length)
+console.log(name.toUpperCase())
+var num =5
+console.log(parseInt("123"))
+console.log(2+3);
+console.log(2-3)
+console.log(5*7)
+console.log(36/12)
+console.log(12%5)
+var sentence =" my name is " + name
+console.log(sentence)
+console.log("a"/"b")
+console.log(1/0)
+
+var bool =true
+console.log(2===3)
+console.log(2>3);
+console.log(2<3);
+console.log(2>=3);
+console.log(2<=3)
+console.log(2!=3)
+
+var test
+console.log(test)
+
+test =null
+
+//conditional statement
+if(3>2)
+{
+  console.log("happy")
+}
+else{
+  console.log("not happy")
+}
+
+console.log(test)
+
+//switch statement
+
+var name = "My name"
+switch(name){
+case "My name":
+  console.log("condition 1");
+  break;
+case "my name":
+  console.log("condition 2")
+break;
+default:
+  console.log("none of the conditions are true")
+}
+
+//Loops
+
+for(var i=0;i<=5;i++){
+  console.log(i)
+}
+//while loop
+var i=0
+while(i <5){
+  console.log(i)
+  i=i+1
+}
+
+var friends =["frnd1","friend2","friend3"]
+console.log(friends[0]);
+for(var index in friends)
+console.log(friends[index])
+console.log(friends.length)
+friends.push("friend4");
+friends.pop()
+
+var value=circumference(7)
+console.log(value)
+
+function circumference(radius)
+{
+  var circumference =2*3.14*radius
+  return circumference
+}
+
+var name ="krishn"
+console.log(name)
+console.log(name.length)
+console.log(name.toUpperCase)
+ var num =14;
+ console.log(parseInt("krishn"))
+ console.log(2+3)
+ console.log(2-3)
+console.log(5*7)
+console.log(36/12)
+console.log(12 % 5)
+console.log(" hi" + "  friend")
+console.log(" hi" + 5)
+console.log("a"/"b")
+console.log(1/0)
+
+var bool = true
+console.log(2===3)
+console.log(2 <3)
+console.log(2>3)
+console.log(2>=3)
+console.log(2<=3)
+console.log(2!=3)
+
+var test
+console.log(test)
+
+test= null;
+console.log(" now value of test is "+ test)
+
+console.log(test)
+
+
+if(3>2){
+  console.log("happy")
+}
+else
+{
+  console.log("not happy")
+}
+
+
+var name = "My name"
+switch(name){
+case "My name":
+  console.log("condition 1");
+  break;
+case "my name":
+  console.log("condition 2")
+break;
+default:
+  console.log("none of the conditions are true")
+}
+
+for (var i=0; i<=5;i++){
+  console.log(i)
+}
+
+
+var i=0
+while(i<=5){
+  console.log(i)
+  i=i+1
+}
+
+var friends =["frnd1","friend2","friend3"]
+console.log(friends[0]);
+
+for(var index in friends)
+console.log(friends[index])
+console.log(friends.length)
+friends.push("friend4");
+console.log(friends)
+friends.pop()
+
+var value=circumference(7)
+console.log(value)
+
+function circumference(radius)
+{
+  var circumference =2*3.14*radius
+  return circumference
+}
+
+var name ="Devansh"
+console.log(name)
+console.log(name.length)
+console.log(name.toUpperCase())
+var num =5;
+console.log(parseInt("123"))
+//  + , -.% /*
+console.log(2+3);
+console.log(2-3)
+console.log(5 *7)
+console.log(36/12)
+console.log(12 % 5)
+console.log("devansh" +  "     Singh")
+console.log("a"/ "b")
+console.log(1/0)
+// >,<,>=,<=,+++!=
+console.log(2===3)
+console.log(2 < 3)
+console.log(2 > 3)
+console.log(2 >=3)
+console.log(2 <=3)
+console.log(2 !=3)
+
+var test;
+console.log(test)
+test =null;
+console.log(test)
+
+if(3 > 2)
+{
+  console.log("happy")
+}
+else
+{
+  console.log("not happy")
+}
+var name ="My Name"
+switch(name){
+  case "My name":
+    console.log("condition 1"); break;
+    case "My Name":
+      console.log("condition 2");break;
+      default:
+        console.log("condition 3");break;
+}
+
+for(var i=0;i<=5;i++){
+  console.log(i);
+}
+
+var i=0;
+while(i<=5){
+  console.log(i);
+  i+i+1;
+}
+
+var friends =["frinds1","frnds2","frnds3"]
+console.log(friends[0])
+
+for(var index in friends){
+  console.log(friends[index])
+}
+
+console.log(friends.length)
+friends.push("friends4")
+friends.pop()
+
+var value=circumference(7)
+console.log(value)
+
+function circumference(radius)
+{
+  var circumference =2*3.14*radius
+  return circumference
+}
+
+
+
+
+
+

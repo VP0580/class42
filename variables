@@ -1,0 +1,34 @@
+//examples of different types of data in javascript
+//string
+var  string="this is a string";
+console.log(string);
+//number
+var  num=100;
+console.log(num);
+
+//boolean
+var bool=true;
+console.log(bool)
+
+//undefined
+var object
+console.log(object)
+ //reassigning the same object to null
+ object=null;
+ console.log(object)
+//exmaples of array
+
+//an array can hold same data type
+var arr1=[1,2,3,4,5]
+console.log(arr1);
+
+var arr2=["name",12,true]
+console.log(arr2)
+// an array storing  a list of arrays
+var arr3 = [[1,2], [2,3], [3,4]];
+console.log(arr3);
+arr3.push("my name")
+console.log(arr3)
+
+arr3.pop();
+console.log(arr3)
